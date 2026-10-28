@@ -493,9 +493,9 @@ HTML_TEMPLATE = '''
                 <div class="social-section">
                     <div style="font-size:12px; color:#888; margin-bottom:10px;">// SECURE COMMS CHANNELS //</div>
                     <div class="social-buttons">
-                        <a href="https://youtube.com/shorts/_uR_pBqeEt4?si=YF0mMI45kgmabFTt" target="_blank" class="social-btn"><i class="fab fa-youtube"></i> YT_LINK</a>
-                        <a href="https://instagram.com/krish_ah_420" target="_blank" class="social-btn"><i class="fab fa-instagram"></i> INSTA_NODE</a>
-                        <a href="https://t.me/krish_ah_420" target="_blank" class="social-btn"><i class="fab fa-telegram-plane"></i> TELE_NET</a>
+                        <a href="https://youtu.be/GPQhIrp1AJ4?si=HRphWfwcaOWRWLoC" target="_blank" class="social-btn"><i class="fab fa-youtube"></i> YT_LINK</a>
+                        <a href="https://www.instagram.com/cyber_india9?rpxt=emx4Mng0M2o1anlp" class="social-btn"><i class="fab fa-instagram"></i> INSTA_NODE</a>
+                        <a href="https://t.me/+Xrok4xEFCHc5N2M1" target="_blank" class="social-btn"><i class="fab fa-telegram-plane"></i> TELE_NET</a>
                     </div>
                 </div>
 
