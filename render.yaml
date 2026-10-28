@@ -1,0 +1,10 @@
+services:
+  - type: web
+    name: naresh-number-info
+    runtime: python
+    plan: free
+    buildCommand: pip install -r requirements.txt
+    startCommand: gunicorn app:app
+    envVars:
+      - key: NUMBER_API_KEY
+        sync: false
